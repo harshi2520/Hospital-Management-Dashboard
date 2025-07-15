@@ -62,7 +62,7 @@ A focused view for analyzing any specific month.
 
 ---
 
-### 📄 2. Consolidated View
+### 📄 2. Holistic View
 
 An overall, high-level summary of emergency department performance across all available data.
 
@@ -74,6 +74,24 @@ An overall, high-level summary of emergency department performance across all av
 - A heatmap of arrivals by day and hour.
 
 ![Consolidated View](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Consolidated%20View.png)
+
+---
+
+### 📄 3. Patient Details
+
+A tabular view of patient-level data:
+- Shows detailed records with fields like Patient Name, Age, Gender, Admission Date, Race, Referral Department, and Admission Status
+- Filterable by date and other attributes for deeper analysis
+- Useful for audits and internal reviews.
+
+---
+
+🧠 4. Key Takeaways
+
+A narrative-based summary generated from insights:
+- Highlights top trends in wait times, referrals, admission behavior, and demographics
+- Written in natural language, useful for stakeholders who prefer summaries over visuals
+- Supports strategic planning and performance reviews
 
 ---
 

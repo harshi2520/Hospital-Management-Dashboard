@@ -9,7 +9,6 @@
 In today's fast-paced healthcare environment, efficient emergency room management is crucial. This project demonstrates a data-driven approach to improving hospital decision-making by building an interactive and scalable Power BI dashboard. It tracks 7,500+ patient records across 19 months, enabling leadership to monitor wait times, patient satisfaction, referral trends, and peak loads — all in real time.
 
 ✅ Designed for stakeholders, operational managers, and hospital administrators.
-
 ✅ Built using real-world healthcare KPIs, advanced DAX, and responsive UX design.
 
 ---

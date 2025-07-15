@@ -1,13 +1,15 @@
 # 🧾Hospital Emergency Dashboard using Power BI, Power Query, DAX
 
-> A project to modernize emergency department reporting and patient flow analytics using Power BI.
+> Real-time hospital operations monitoring using Power BI, DAX, and Power Query
 
 ---
 
 ## 🚀 Project Overview
 
-This project demonstrates how data visualization and analytics can optimize emergency room operations and improve patient care.
-Using Power BI, the dashboard consolidates patient data, enabling stakeholders to monitor admissions, wait times, referrals, and satisfaction, all in real time.
+In today's fast-paced healthcare environment, efficient emergency room management is crucial. This project demonstrates a data-driven approach to improving hospital decision-making by building an interactive and scalable Power BI dashboard. It tracks 7,500+ patient records across 19 months, enabling leadership to monitor wait times, patient satisfaction, referral trends, and peak loads — all in real time.
+
+✅ Designed for stakeholders, operational managers, and hospital administrators.
+✅ Built using real-world healthcare KPIs, advanced DAX, and responsive UX design.
 
 ---
 ## 📌 Business Problem

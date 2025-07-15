@@ -84,14 +84,18 @@ A tabular view of patient-level data:
 - Filterable by date and other attributes for deeper analysis
 - Useful for audits and internal reviews.
 
+![Patient Details](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Monthly%20View.png)
+
 ---
 
-🧠 4. Key Takeaways
+### 🧠 4. Summary
 
 A narrative-based summary generated from insights:
 - Highlights top trends in wait times, referrals, admission behavior, and demographics
 - Written in natural language, useful for stakeholders who prefer summaries over visuals
 - Supports strategic planning and performance reviews
+
+![Summary](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Monthly%20View.png)
 
 ---
 

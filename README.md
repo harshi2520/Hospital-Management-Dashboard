@@ -95,7 +95,7 @@ A narrative-based summary generated from insights:
 - Written in natural language, useful for stakeholders who prefer summaries over visuals
 - Supports strategic planning and performance reviews
 
-![Summary](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Monthly%20View.png)
+![Summary](https://github.com/harshi2520/Hospital-Management-Dashboard/blob/main/Summary.png)
 
 ---
 

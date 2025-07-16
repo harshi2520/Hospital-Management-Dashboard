@@ -58,7 +58,7 @@ A focused view for analyzing any specific month.
 - Demographics filtered for the selected month.
 - Hourly heatmap for operational insights.
 
-![Monthly View](https://github.com/harshi2520/Hospital-Management-Dashboard/blob/main/Montly%20View.png)
+![Monthly View](https://github.com/harshi2520/Hospital-Management-Dashboard/blob/main/Monthly%20View.png)
 
 ---
 

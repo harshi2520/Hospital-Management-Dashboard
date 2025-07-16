@@ -84,7 +84,7 @@ A tabular view of patient-level data:
 - Filterable by date and other attributes for deeper analysis
 - Useful for audits and internal reviews.
 
-![Patient Details](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Monthly%20View.png)
+![Patient Details](https://github.com/harshi2520/Hospital-Management-Dashboard/blob/main/Patient%20Details.png)
 
 ---
 

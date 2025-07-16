@@ -73,7 +73,7 @@ An overall, high-level summary of emergency department performance across all av
 - Age group, gender, and race demographics.
 - A heatmap of arrivals by day and hour.
 
-![Consolidated View](https://github.com/bhumikabharadwaj2205/Hospital-Management-Dashboard/blob/main/Consolidated%20View.png)
+![Consolidated View](https://github.com/harshi2520/Hospital-Management-Dashboard/blob/main/Holistic%20View.png)
 
 ---
 
